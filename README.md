@@ -1,4 +1,4 @@
-# Flask Web App Starter
+# this is absolutely wrong 
 
 A Flask starter template as per [these docs](https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application).
 
